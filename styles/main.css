@@ -113,15 +113,10 @@ main {
 
 .cards .card a {
 	display: block;
-	/* превратить ссылку в блочный элемент */
 	width: 100%;
-	/* растянуть на всю ширину карточки */
 	height: 100%;
-	/* растянуть на всю высоту карточки */
 	text-decoration: none;
-	/* убрать подчеркивание у текста */
 	color: inherit;
-	/* сохранить цвет текста */
 }
 
 .cards .card .card-info {
@@ -133,10 +128,6 @@ main {
 	width: 100%;
 	height: 300px;
 	overflow: hidden;
-	/* overflow: hidden */
-	/* margin: 5px 0px;
-	font-size: 18px;
-	font-weight: bold; */
 }
 
 .cards .card .card-image img {
@@ -156,7 +147,6 @@ main {
 	width: 95%;
 	margin: 5px 10px;
 	font-size: 14px;
-	/* font-weight: bold; */
 	color: #d1d1d1;
 	white-space: nowrap;
 	overflow: hidden;

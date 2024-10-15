@@ -1,7 +1,7 @@
 const cards = document.querySelector('#cards');
 
 async function getItems() {
-	const response = await fetch('./items.json');
+	const response = await fetch('items.json');
 	const items = await response.json();
 	return items;
 }
