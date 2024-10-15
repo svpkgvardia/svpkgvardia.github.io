@@ -7,32 +7,5 @@
 			"Это тестовый объект.",
 			"**Lorem ipsum dolor sit amet**, consectetur adipiscing elit. Duis lobortis augue leo, eu venenatis tellus suscipit sit amet. Vestibulum feugiat dictum mi, at luctus eros placerat sit amet. Fusce lobortis et lacus at tristique. Integer a aliquet libero. Curabitur scelerisque urna et porttitor accumsan. Aliquam id leo vel lectus convallis fermentum ut eu diam. Mauris dignissim, ipsum efficitur rhoncus gravida, lorem lorem dignissim nisl, eget posuere velit quam nec sem. Etiam at ligula massa. Quisque id odio in quam hendrerit dictum vel vel metus. *Ut blandit nulla eu ipsum ornare*, eu suscipit urna dictum. Integer condimentum imperdiet neque vel tristique. Curabitur eu est neque."
 		]
-	},
-	{
-		"id": 2,
-		"title": "Тестовый объект",
-		"image": "https://placehold.co/400x600",
-		"description": [
-			"Это тестовый объект.",
-			"**Lorem ipsum dolor sit amet**, consectetur adipiscing elit. Duis lobortis augue leo, eu venenatis tellus suscipit sit amet. Vestibulum feugiat dictum mi, at luctus eros placerat sit amet. Fusce lobortis et lacus at tristique. Integer a aliquet libero. Curabitur scelerisque urna et porttitor accumsan. Aliquam id leo vel lectus convallis fermentum ut eu diam. Mauris dignissim, ipsum efficitur rhoncus gravida, lorem lorem dignissim nisl, eget posuere velit quam nec sem. Etiam at ligula massa. Quisque id odio in quam hendrerit dictum vel vel metus. *Ut blandit nulla eu ipsum ornare*, eu suscipit urna dictum. Integer condimentum imperdiet neque vel tristique. Curabitur eu est neque."
-		]
-	},
-	{
-		"id": 3,
-		"title": "Тестовый объект",
-		"image": "https://placehold.co/400x600",
-		"description": [
-			"Это тестовый объект.",
-			"**Lorem ipsum dolor sit amet**, consectetur adipiscing elit. Duis lobortis augue leo, eu venenatis tellus suscipit sit amet. Vestibulum feugiat dictum mi, at luctus eros placerat sit amet. Fusce lobortis et lacus at tristique. Integer a aliquet libero. Curabitur scelerisque urna et porttitor accumsan. Aliquam id leo vel lectus convallis fermentum ut eu diam. Mauris dignissim, ipsum efficitur rhoncus gravida, lorem lorem dignissim nisl, eget posuere velit quam nec sem. Etiam at ligula massa. Quisque id odio in quam hendrerit dictum vel vel metus. *Ut blandit nulla eu ipsum ornare*, eu suscipit urna dictum. Integer condimentum imperdiet neque vel tristique. Curabitur eu est neque."
-		]
-	},
-	{
-		"id": 4,
-		"title": "Тестовый объект",
-		"image": "https://placehold.co/400x600",
-		"description": [
-			"Это тестовый объект.",
-			"**Lorem ipsum dolor sit amet**, consectetur adipiscing elit. Duis lobortis augue leo, eu venenatis tellus suscipit sit amet. Vestibulum feugiat dictum mi, at luctus eros placerat sit amet. Fusce lobortis et lacus at tristique. Integer a aliquet libero. Curabitur scelerisque urna et porttitor accumsan. Aliquam id leo vel lectus convallis fermentum ut eu diam. Mauris dignissim, ipsum efficitur rhoncus gravida, lorem lorem dignissim nisl, eget posuere velit quam nec sem. Etiam at ligula massa. Quisque id odio in quam hendrerit dictum vel vel metus. *Ut blandit nulla eu ipsum ornare*, eu suscipit urna dictum. Integer condimentum imperdiet neque vel tristique. Curabitur eu est neque."
-		]
 	}
 ]
