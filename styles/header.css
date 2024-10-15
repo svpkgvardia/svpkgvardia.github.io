@@ -19,6 +19,16 @@ header {
 	font-weight: bold;
 }
 
+.header .title a {
+	color: var(--text-color);
+	text-decoration: none;
+	transition: all 0.2s ease-in-out;
+}
+
+.header .title a:hover {
+	color: var(--background-color);
+	filter: brightness(150%);
+}
 
 /* OPEN MENU BUTTON */
 .hamburger {
