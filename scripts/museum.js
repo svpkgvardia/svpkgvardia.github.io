@@ -24,6 +24,7 @@ async function main() {
 			// Ссылка
 			const a = document.createElement("a");
 			a.href = 'item?id='+item.id;
+			// UPDATE
 
 			// Блок с изображением
 			const cardImage = document.createElement("div");
