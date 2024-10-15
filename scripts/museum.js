@@ -23,7 +23,7 @@ async function main() {
 
 			// Ссылка
 			const a = document.createElement("a");
-			a.href = '/item.html?id='+item.id;
+			a.href = './item?id='+item.id;
 
 			// Блок с изображением
 			const cardImage = document.createElement("div");
